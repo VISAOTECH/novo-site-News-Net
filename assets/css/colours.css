@@ -1,0 +1,34 @@
+:root
+{
+  /* Navbar */
+  --nav-bg:             #23335B;
+  --nav-primary:        #CBC5C1;
+  --nav-primary-hover:  #94847C;
+
+  --color1: #F4F3F2;
+  --color2: #CBC5C1;
+  --color3: #94847C;
+  --color4: #4768ba;
+  --color5: #3d589c;
+  --color6: #2a3f73;
+  --color7: #23335B;
+  --color8: #192542;
+  --color9: #121b30;
+  --color10: #38312e;
+  --color11: #2a2522;
+  --color12: #221e1b;
+
+  /* Footer */
+  --footer-bg: #515C71;
+  --footer-fg: #CBC5C1;
+}
+
+/* 
+#CBC5C1 - Cappuccino muito claro
+#94847C - Cappuccino escuro
+#23335B - Azul real escuro
+#88949C - Azul real claro
+#848C9C - Cinza azulado
+#515C71 - Cinza azulado escuro
+#151A20 - Escuro 
+*/

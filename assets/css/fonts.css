@@ -1,0 +1,97 @@
+@font-face
+{
+  font-display: swap;
+  font-family: "Rubik";
+  font-style: normal; 
+  font-weight: normal;
+  src: url("../fonts/rubik/rubik-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Rubik";
+  font-style: normal; 
+  font-weight: 800;
+  src: url("../fonts/rubik/rubik-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Rubik";
+  font-style: italic; 
+  font-weight: normal;
+  src: url("../fonts/rubik/rubik-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Rubik";
+  font-style: italic; 
+  font-weight: 800;
+  src: url("../fonts/rubik/rubik-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Hahmlet";
+  font-style: normal; 
+  font-weight: normal;
+  src: url("../fonts/hahmlet/hahmlet-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Hahmlet";
+  font-style: normal; 
+  font-weight: 700;
+  src: url("../fonts/hahmlet/hahmlet-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Hahmlet";
+  font-style: normal; 
+  font-weight: 900;
+  src: url("../fonts/hahmlet/hahmlet-variable.woff2") format("woff2-variations");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Font Awesome";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/fontawesome/font-awesome-regular.otf") format("opentype");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Font Awesome";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/fontawesome/font-awesome-solid.otf") format("opentype");
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: "Font Awesome Brands";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/fontawesome/font-awesome-brands.otf") format("opentype");
+}
+
+:root
+{
+  --fontawesome: "Font Awesome", sans-serif;
+  --fontawesome-brands: "Font Awesome Brands", sans-serif;
+  --hahmlet: "Hahmlet", serif;
+  --rubik: "Rubik", sans-serif;
+}
